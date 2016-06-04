@@ -1,11 +1,11 @@
 Dockerized Unreal Engine 4
 ==========================
 
-# NOTE
+## NOTE
 * docker image is small, and volume uses about 25GB of disk space initially
 * builds in ~1.5 hours depending on network and hardware
 
-# Installation
+## Installation
 1. signup with Epic Games for access to UnrealEngine4 github repository
 
 2. download .tar.gz file or "git clone" desired version of UnrealEngine from github
